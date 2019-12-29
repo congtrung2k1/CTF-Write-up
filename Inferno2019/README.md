@@ -1,0 +1,1 @@
+writeup httpscongtrung2k1.blogspot.com201912infernoctf-2019.html
