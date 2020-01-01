@@ -26,17 +26,17 @@ restrictions = [
  'gnynwuuqypddbsylparpcczqimimqmvdl',
  'bxitcmhnmanwuhvjxnqeoiimlegrmkjra']
 
-f_len = len(restrictions[0])
+alphabet = [chr(95)] + [chr(i) for i in range(97, 97 + 26)]
 
-a = [chr(i) for i in range(95, 95 + 28)]
-a = a[0:1] + a[2:]
 flag = ""
 
-for i in range(f_len):
+for i in range(len(restrictions[0])):
+	#find the rest of alphabet
 	ch = ""
 	for item in restrictions:
 		ch += item[i]
-	for j in a:
+
+	for j in alphabet:
 		if j not in ch:
 			flag += j
 			break
@@ -48,4 +48,5 @@ for f in range(len(flag)):
         cap_flag += flag[f].upper()
     else:
         cap_flag += flag[f]
+
 print(cap_flag)
