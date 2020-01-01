@@ -1,1 +1,1 @@
-write-up: https://congtrung2k1.blogspot.com/2019/12/infernoctf-2019.html
+writeup httpscongtrung2k1.blogspot.com201912infernoctf-2019.html
