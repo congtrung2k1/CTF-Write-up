@@ -1,0 +1,15 @@
+Seorang Masinis kereta mengumumkan bahwa kereta akan 
+berhenti di offset 9. Namun, ketika sampai di Daejeon, 
+keadaan stasiun sepi dan tidak ada orang sama sekali. Ketika 
+menyadari kunci nya adalah 2. maka seluruh tentara terinfeksi 
+tersebut menjadi zombie. Zombie tersebut meninggalkan 
+sebuah kode enkripsi yang tidak di ketahui oleh manusia.
+
+Bisakah kamu memecahkan kode tersebut ?
+
+LGmi_ee_e_4_fstaakkx}BU{4nGsrkydnof3_j_o_D
+
+
+Format Flag : BLUG{this_is_flag}
+Author: @artharezkyy
+

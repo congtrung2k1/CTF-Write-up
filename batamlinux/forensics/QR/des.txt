@@ -1,0 +1,2 @@
+Saya diberikan tugas melalui QR Code. Tetapi, Ada sesuatu yang aneh dimana QR Code tidak bisa dilakukan sebuah Scan Barcode.
+

@@ -1,0 +1,11 @@
+Stream cipher berkecepatan tinggi dari tahun 2003. 
+Komponen inti dari cipher ini adalah generator bitstream 
+yang mengenkripsi 128 bit pesan per iterasi. Cipher ini 
+menggunakan kunci bernama Januari dan tanggal Vektornya sebagai 29012000.
+
+
+Hf9QXz8EhzIc2HbWRbEqbxVIT+7hcCc8vt4V6U5xuiWV
+
+Format Flag : BLUG{this_is_flag}
+Author: @artharezkyy
+

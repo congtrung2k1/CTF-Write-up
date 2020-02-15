@@ -1,0 +1,11 @@
+salah satu cipher klasik terkenal di dunia pada masanya, 
+Cipher ini digunakan oleh tentara Jerman pada Perang Dunia I 
+di bagian barat Eropa.
+
+Key : nebel
+
+ggaxa xaaag faxax dfdxx fxfad dxaaf daddg fdffg gx
+
+Format Flag : BLUG{flagnya_lowercase_pakai_underscore}
+Author: @artharezkyy
+

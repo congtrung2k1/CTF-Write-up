@@ -1,0 +1,6 @@
+Sesuatu telah terjadi pada notepadku = https://www.youtube.com/watch?v=nOLqvFOqXtw
+
+Timing diperlukan disini
+
+Format : BLUG{Flag}
+

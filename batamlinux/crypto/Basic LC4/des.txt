@@ -1,0 +1,9 @@
+LC4 adalah cipher berteknologi rendah yang dapat dihitung dengan tangan, tetapi tidak seperti banyak cipher sejarah, LC4 dirancang untuk menjadi sulit untuk dihancurkan.
+
+oleh karena itu enkripsi dan dekripsi plaintext dan ciphertext yang hanya terdiri dari huruf bahasa Inggris A hingga Z ditambah beberapa karakter lainnya. LC4 menggunakan nonce di samping kunci rahasia, dan mengharuskan pesan berbeda menggunakan nonce unik.
+
+Bisakah kamu memecahkan kode tersebut ?
+
+Format Flag : BLUG{this_is_flag}
+Author: @artharezkyy
+

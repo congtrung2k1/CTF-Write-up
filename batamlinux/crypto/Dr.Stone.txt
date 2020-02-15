@@ -1,0 +1,8 @@
+Pada Kali ini Senku Ishigami melakukan sebuah experiment dimana Senku melakukan penyisipan sebuah pesan dengan sebuah Ribonucleic Acid
+
+GUCACUUCGGGCUUCUAAUCGCACUUCCUUCUUCUCGCUUCUCUAUUCCUCUCG
+
+Format : BLUG{Flag}
+
+Hint: Sebuah bagian dari rangkaian ekspresi genetik
+

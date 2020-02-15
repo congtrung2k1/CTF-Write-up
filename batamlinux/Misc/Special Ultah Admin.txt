@@ -1,0 +1,11 @@
+Selamat Datang di CTF BLUG Season 2 xD
+
+oh iyaa btw admin tanggal 29 januari ini ultah loh :v...
+jadi karna hari ini special bagi admin, maka admin beri flag untuk kamu, silahkan di gunakan baik2 yah :V
+
+<Tidak semudah itu ferguso :v>
+
+
+
+Format Flag : BLUG{this_is_flag}
+Author: @artharezkyy

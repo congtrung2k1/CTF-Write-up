@@ -1,0 +1,10 @@
+Enkripsi ini menggunakan metode yang mirip dengan base64 
+tetapi dengan alfabet yang diperluas menjadi 94 karakter 
+ASCII. Enkripsi ini juga dapat dicetak (dari 0x21 hingga 0x7E) 
+menghilangkan -: tanda hubung (0x2D), : backslash (0x5C) dan ': 
+apostrophe (0x27).
+
+!tS=U<:u*N>4qN"jD5rd_7`RgS(+M8Iab,`fe9)@S8TwB.BYHu&=/5]u]#o
+
+Format Flag : BLUG{this_is_flag}
+Author: @artharezkyy

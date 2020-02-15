@@ -1,0 +1,8 @@
+Bermain mainan papan, Bermain tic tac toe , minum coklat 
+panas, kemudian menyelesaikan puzzle, menyelesaikan puzzle, 
+bermain tic tac toe, minum coklat panas, menonton tv, minum 
+coklat panas, bermain tic tac toe, menyelesaikan puzzle dan 
+minum coklat panas.
+
+Format : Flag{....}
+
