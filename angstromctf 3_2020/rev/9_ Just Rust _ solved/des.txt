@@ -1,0 +1,2 @@
+Clam really enjoys writing in C, but he realizes that he'll have to learn another language eventually. After all, he's grown pretty rusty after only programming in C for a year. So, he decided to write a program to create some ASCII art from user input. He also provided a sample output!
+

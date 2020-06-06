@@ -1,0 +1,8 @@
+Agriculture is the most healthful, most useful and most noble employment of man.
+
+—George Washington
+
+Can you call the flag function in this program (source)
+
+Hint:
+What's dangerous about the gets function?

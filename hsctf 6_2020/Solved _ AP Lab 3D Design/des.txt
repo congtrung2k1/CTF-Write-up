@@ -1,0 +1,2 @@
+In this activity, you will reverse engineer a program which manipulates a 3D array by manipulating its individual bits. However, only a compiled .class file will be given rather than Java code.
+

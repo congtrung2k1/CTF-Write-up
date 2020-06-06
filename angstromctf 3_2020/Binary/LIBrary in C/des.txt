@@ -1,0 +1,5 @@
+After making that trainwreck of a criminal database site, clam decided to move on and make a library book manager ... but written in C ... and without any actual functionality. What a fun guy. I managed to get the source and a copy of libc from him as well.
+
+Hint:
+The system function in libc looks pretty nice, sadly ASLR keeps changing its address every time.
+

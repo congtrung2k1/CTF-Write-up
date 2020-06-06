@@ -1,0 +1,5 @@
+A hacker X loves setting a password as a word, number, phrase or a sequence of other characters
+that is the same both backwards and forwards such as a racecar. I want you to find the longest password 
+that meets hacker X's requirements in this file
+
+ Related Resource: Submit flag format: Flag{sha1(passwd)}

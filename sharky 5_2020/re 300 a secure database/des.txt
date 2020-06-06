@@ -1,0 +1,5 @@
+A friend of mine told me that he has an encrypted leaked database somewhere on his server. 
+He has been willing to give me a program to retrieve it, but he did not give me the password used to decrypt the database. 
+Can you find it?
+
+He also told me that his program was super safe, and that I would not be able to use my tools on it.

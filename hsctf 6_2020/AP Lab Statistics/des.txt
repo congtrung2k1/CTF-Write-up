@@ -1,0 +1,3 @@
+In AP Statistics, you will be shown a program consisting of manipulated and random numbers. Similarly to AP 3D Design, only a compiled .class file will be given rather than Java code.
+
+Hint: Statistics are only meant for humans to read.

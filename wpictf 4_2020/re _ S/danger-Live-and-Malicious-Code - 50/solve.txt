@@ -1,0 +1,1 @@
+break the infinite loop and show in web F12 console a+b+c+d+e+f

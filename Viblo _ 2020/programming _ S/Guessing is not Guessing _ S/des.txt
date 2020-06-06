@@ -1,0 +1,6 @@
+I have created a number 0 <= x <= 18446744073709551616 can you guess it?
+You have 70 tries to guess it :)
+
+Your guess is too high; 9 tries left
+Your guess is too low; 7 tries left
+This is flag in here!\nFlag{

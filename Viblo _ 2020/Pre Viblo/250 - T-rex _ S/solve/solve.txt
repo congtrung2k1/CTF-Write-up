@@ -1,0 +1,2 @@
+Decompile the t-rex.jar by procyon, change reward points to 20000 instead of 20.
+Create new project in Eclipse and run.

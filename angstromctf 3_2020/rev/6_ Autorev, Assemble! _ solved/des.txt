@@ -1,0 +1,4 @@
+Clam was trying to make a neural network to automatically do reverse engineering for him, but he made a typo and the neural net ended up making a reverse engineering challenge instead of solving one! Can you get the flag?
+
+Hint: Don't do this by hand.
+

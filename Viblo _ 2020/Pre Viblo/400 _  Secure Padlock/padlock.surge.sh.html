@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Secure Padlock: Unbreakable</title>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="w-full flex flex-col justify-center">
+      <h3 class="text-3xl font-semibold mx-auto mt-24">Secure Padlock</h3>
+      <form class="max-w-sm mx-auto">
+        <div class="flex items-center border-b border-b-2 border-blue-500 py-2">
+          <input
+            class="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
+            type="text" placeholder="Enter password..." id="password">
+          <button
+            class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
+            type="button" id="unlock">
+            Unlock
+          </button>
+        </div>
+      </form>
+    </div>
+    <script src="index.js"></script>
+  </body>
+
+</html>

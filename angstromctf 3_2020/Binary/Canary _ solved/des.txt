@@ -1,0 +1,8 @@
+A tear rolled down her face like a tractor. “David,” she said tearfully, “I don’t want to be a farmer no more.”
+
+—Anonymous
+
+Can you call the flag function in this program (source)?
+
+Hint:
+That printf call looks dangerous too...

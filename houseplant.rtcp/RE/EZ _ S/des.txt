@@ -1,0 +1,4 @@
+I made a password system, bet you can't get the flag
+
+Dev: William
+ Hint! Just a series of nice and relatively simple Python reverse engineering!

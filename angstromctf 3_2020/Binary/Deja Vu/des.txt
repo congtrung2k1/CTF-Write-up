@@ -1,0 +1,7 @@
+Clam became a parent and had a child. Or at least he dreamed about it. Anyway, clam wrote a program to describe his dream. In fact, he's so happy that he provided source!
+
+...wait a second, this feels familiar.
+
+Hint:
+There's a reason the challenge isn't available over netcat.
+
