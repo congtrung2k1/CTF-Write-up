@@ -1,0 +1,3 @@
+There is a malicious binary packed with a PE Packer I made for you. Your mission is unpacking the malware manually and recognizing the technique it uses.
+
+* This program has been tested on Windows 7 32-Bit.

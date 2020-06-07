@@ -1,0 +1,57 @@
+import gdb
+
+class MyBreakPoint(gdb.Breakpoint):
+    def stop(self):
+        global state, default, ran, inp, xored
+        if state == 0:
+            state = 1
+            default.append(str(gdb.parse_and_eval("$eax")))
+        elif state == 1:
+            state = 2
+            rand.append(str(gdb.parse_and_eval("$eax")))
+        elif state == 2:
+            state = 3
+            inp.append(str(gdb.parse_and_eval("$ecx")))
+        elif state == 3:
+            state = 0
+            gdb.execute("set $eflags |= (1 << 6) ")
+            xored.append(str(gdb.parse_and_eval("$ecx")))
+        return False
+
+state = 0
+default = []
+rand = []
+inp = []
+xored = []
+
+MyBreakPoint("*0x80487C7")
+MyBreakPoint("*0x80487D9")
+MyBreakPoint("*0x8048804")
+MyBreakPoint("*0x8048819")
+gdb.execute("r <<< 'Defenit{abaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa}'")
+
+print(default)
+print(rand)
+print(inp)
+print(xored)
+
+final = [ 0xBA, 0x1C, 0x04, 0xF8, 0x3B, 
+  0xA8, 0x9C, 0x7C, 0x8E, 0x98, 
+  0x81, 0x89, 0x09, 0x55, 0xD0, 
+  0xEE, 0xC5, 0xFD, 0x47, 0x50, 
+  0xA2, 0x46, 0xDF, 0x63, 0x2E, 
+  0x51, 0x38, 0xFE, 0x6A, 0xF2, 
+  0xA0, 0x5A, 0x94, 0xE5, 0x49, 
+  0x62, 0x37, 0x1F, 0x79, 0xD8, 
+  0x54, 0x1C, 0xE5, 0x68, 0xBB, 
+  0xF0, 0x60, 0x64, 0x0F, 0x49, 
+  0xCD, 0x7D, 0xA9, 0xFD, 0x02, 
+  0x7D, 0xCA, 0x03, 0x32, 0x80, 
+  0xC5, 0x4B, 0x3D, 0xE9, 0x74, 
+  0x8D, 0x3D, 0x8A, 0x2C, 0xB2, 
+  0x30, 0x78, 0xC4]
+
+print(''.join([chr(int(i) ^ int(j) ^ k) for i,j,k in zip(xored,inp,final)]))
+
+gdb.execute("q")
+end
