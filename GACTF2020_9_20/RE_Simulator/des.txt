@@ -1,0 +1,2 @@
+Study <Introduction to Computer System> carefully,the format of flag is GACTF{}
+
