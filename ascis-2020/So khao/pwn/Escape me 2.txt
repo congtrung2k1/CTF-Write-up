@@ -1,0 +1,4 @@
+Try to get shell.
+
+Server: nc 34.126.100.193 31337
+

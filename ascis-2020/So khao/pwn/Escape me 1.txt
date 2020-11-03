@@ -1,0 +1,4 @@
+Try to read /home/escape_me/flag2
+
+Server: nc 34.126.100.193 31337
+

@@ -1,0 +1,11 @@
+This year, we have 3 flags in one pwnable challenge. This is the first one and good luck !
+
+Try to exploit me and get flag.
+
+server: nc 34.126.100.193 31337
+
+Hint:
+set follow fork-mode child
+
+A part from source code, check it out. https://drive.google.com/file/d/1KXAQpdM9W_8i6q_c32Drqm-kURLrNH_2/view?usp=sharing
+pwnme.zip

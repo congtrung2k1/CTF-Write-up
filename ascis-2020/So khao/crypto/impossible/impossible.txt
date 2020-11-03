@@ -1,0 +1,4 @@
+Finding the values of 3 variables with only 2 equations is impossible, right?
+
+Server: nc 35.198.201.229 1337
+
